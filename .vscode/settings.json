@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/flutter/ephemeral": true,
+        "**/Flutter/ephemeral": true,
+        "**/.symlinks": true,
+        "**/.plugin_symlinks": true,
+        "**/c:\\Users\\kynm\\Desktop\\Design-Pattern-Groupe-1\\Design_patterns_project GROUP1\\main.aux": true,
+        "**/c:\\Users\\kynm\\Desktop\\Design-Pattern-Groupe-1\\Design_patterns_project GROUP1\\main.log": true,
+        "**/c:\\Users\\kynm\\Desktop\\Design-Pattern-Groupe-1\\Design_patterns_project GROUP1\\main.gz": true,
+        "**/c:\\Users\\kynm\\Desktop\\Design-Pattern-Groupe-1\\Design_patterns_project GROUP1\\main.out": true
+    }
+}
